@@ -3,7 +3,7 @@
 
 * Project JAVA for  EGCO 213 class
 * Made by computer engineering student of Mahidol University.
-* This is for education purpose.
+* For education purpose.
 - There is something strange in this house.You must find the way out by resolve puzzels.
 
 ## Example Game
