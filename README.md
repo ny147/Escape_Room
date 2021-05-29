@@ -1,3 +1,3 @@
 # Escape_Room
-##Escape Room game made by JAVA GUI
+#Escape Room game made by JAVA GUI
 
